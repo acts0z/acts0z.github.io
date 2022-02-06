@@ -1,0 +1,11 @@
+public/
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### VisualStudioCode ###
+.vscode/
+.vscode/*
