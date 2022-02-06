@@ -1,4 +1,4 @@
-baseURL = "http://acts0z.github.io/"
+baseURL = "https://acts0z.github.io/"
 languageCode = "ko-kr"
 paginate = 6
 theme = "portio"
