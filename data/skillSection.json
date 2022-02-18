@@ -1,0 +1,20 @@
+{
+    "enable": true,
+    "topTitle": "내가 공유할 수 있는 것들",
+    "content": "## Why hire me for your next project?\nMy goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.\n",
+    "image": "images/skill/skill_image.jpg",
+    "skill": [
+      {
+        "title": "퍼실리테이터",
+        "percent": 70
+      },
+      {
+        "title": "비경쟁토론",
+        "percent": 90
+      },
+      {
+        "title": "제로웨이스터",
+        "percent": 85
+      }
+    ]
+  }

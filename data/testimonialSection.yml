@@ -1,13 +1,13 @@
 ---
 enable: true
-topTitle: Testimonials
+topTitle: 피드백
 title: >
-  ## What People Say About Me?
+  ## 사람들이 나에 대해서 뭘하고 말할까요
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
+  - name: 더블세븐
+    comment: 항상 웃는 얼굴로 진지하면서도 열정적으로 임하시는 모습이 보기 좋았습니다. 덕분에 청소년 아이들과 대화하는 방법을 배워갑니다. 많은 도움이 되었네요 감사합니다.
+    time: 2020.05.07
     star: 5
   - name: Justin Trudo
     comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.

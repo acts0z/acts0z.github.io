@@ -1,6 +1,6 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: 내가 공유할 수 있는 것들
 content: >
   ## Why hire me for your next project?
 
@@ -9,9 +9,9 @@ content: >
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
+  - title: 퍼실리테이터
+    percent: 70
+  - title: 비경쟁토론
+    percent: 90
+  - title: 제로웨이스터
     percent: 85
