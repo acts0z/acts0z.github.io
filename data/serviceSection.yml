@@ -2,18 +2,12 @@
 enable: true
 topTitle: 일과 관심사
 title: >
-  ## Creative Services
+  ## 나를 만드는 것들
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  내용 채울것 ...
 service:
   - content: >
       #### 퍼실리테이터 
-
-      내용정리 필요 
-    image: images/service/ui-ux.svg
-  - content: >
-      #### 비경쟁토론
 
       내용정리 필요 
     image: images/service/web.svg
@@ -33,7 +27,7 @@ service:
       내용정리 필요
     image: images/service/ui-ux.svg
   - content: >
-      #### 제로웨이스트
+      #### 독서
 
       내용정리 필요
     image: images/service/web.svg
