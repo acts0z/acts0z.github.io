@@ -2,12 +2,12 @@
 enable: true
 topTitle: 안녕하세요 퍼실리테이터 현주 입니다.
 content: >
-  ## 나는 사람들이 ***가치있는 삶*** 을 사는 것을 돕기 위해 봉사하고 일합니다.
+  ### 저는 사람들이 **가치있는 삶** 을 사는 것을 돕기 위해 봉사하고 일합니다.
 
-  만약 당신이 배를 만들고 싶다면 사람들에게 목재를 가져오라고 하거나 일감을 지시하지 말라   
+  만약 당신이 배를 만들고 싶다면 사람들에게 목재를 가져오라고 하거나 일감을 지시하지 말라  
   대신 그들에게 넓고 끝없는 바다에 대한 동경심을 키워주라. - 생텍쥐베리 -
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/myphotoOK.jpg
-# videoThumb: images/hero/popup-thumb.png
-# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+videoThumb: images/hero/popup-thumb.png
+videoURL: https://www.youtube.com/watch?v=r7YKd95j5r8

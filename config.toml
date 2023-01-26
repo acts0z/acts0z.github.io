@@ -39,7 +39,7 @@ name = "About me"
 url = "about"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Question"
+name = "자주 묻는 질문"
 url = "#"
 weight = 2
 [[menu.sitemap]]
@@ -54,7 +54,7 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "All right reserved copyright © Portio 2023"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
@@ -62,9 +62,9 @@ logo = "images/site-navigation/logo.png"
 
 [params.address]
 address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+email = "acts95@ftsori.com"
+openingHours = "Open from 10am to 6pm"
+phone = "+(82) 010 2731 5638"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"

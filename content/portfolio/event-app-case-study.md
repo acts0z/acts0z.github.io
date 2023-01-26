@@ -1,21 +1,14 @@
 ---
-title: Event App Case Study
+title: 독립서점
 date: 2020-08-12T18:07:16.000+06:00
-thumbnail: images/portfolio/portfolio-2.png
-service: Web Design, Branding
-client: Johnathon Doe
-shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-  nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor.
-challenge: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
+thumbnail: images/portfolio/cafe_001.jpg
+service: 나를 돌아보는 대화
+client: 한스책방
+shortDescription: 짧게 설명.
+challenge: 일상 속에 지친 엄마들과 함께 나누는 나를 찾는 대화
+solution: 가치찾기와 발견대화를 통해서 내가 살아오면서 중요하게 생각해 온 가지를 다시 찾고 나를 돌아보는 시간
 
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+어쩌구 저쩌구 
 
-Ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+이러쿵 저러쿵

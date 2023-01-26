@@ -1,6 +1,6 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: 일과 관심사
 title: >
   ## Creative Services
 
@@ -8,38 +8,32 @@ title: >
   various fields by provided.
 service:
   - content: >
-      #### UI/UX Design 
+      #### 퍼실리테이터 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      내용정리 필요 
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### 비경쟁토론
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      내용정리 필요 
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### 지구한켠
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      내용정리 필요
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### 홈 바리스타
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      내용정리 필요
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design
+      #### 보드게이머
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      내용정리 필요
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development
+      #### 제로웨이스트
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      내용정리 필요
     image: images/service/web.svg

@@ -1,7 +1,6 @@
 {
     "enable": true,
-    "topTitle": "내가 공유할 수 있는 것들",
-    "content": "## Why hire me for your next project?\nMy goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.\n",
+    "content": "## 당신과 함께 일해야 하는 이유는?\n 워크숍, 회의, 교사, 교회 등.. 각 분야에서 일하는 분들이 **효과적인 목적**을 달성할 수 있도록 **과정을 설계**하여 **참여를 유도**하고 **촉진**하도록 돕고 있습니다. 저는 **경력을 쌓으면서** 계속 **성장** 하고 있습니다. \n",
     "image": "images/skill/skill_image.jpg",
     "skill": [
       {
@@ -13,8 +12,12 @@
         "percent": 90
       },
       {
-        "title": "제로웨이스터",
+        "title": "제로웨이스트",
         "percent": 85
-      }
+      },
+      {
+        "title": "보드게임",
+        "percent": 80
+      }      
     ]
   }

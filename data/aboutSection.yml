@@ -4,18 +4,21 @@ topTitle: About
 title: >
   ## About me
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  퍼실리테이터, 제로웨이스트, 보드게임, 핸드드립, 도서관, 사서
+  보이차, 음.. 그리고...
 content: >
-  ### I design and build ultimate things.
+  ### 저는 퍼실리테이터입니다.
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
-button1Name: Hire me
-button2Name: Download CV
+  * 저는 직접 로스팅한 원두로, 핸드드립한 커피로 아침을 시작합니다. 때로는 저녁에 남편과 함께 보이차를 즐깁니다.
+
+  * (지금은 아니지만) 책을 좋아해서 시립 작은 도서관에서 사서로 일했었습니다.
+
+  * 보드게임 하는 것을 좋아해 작은 모임장을 운영하고 있습니다.
+
+  * 또한 지구한켠의 일원으로 제로웨이스트로 살고 있습니다.
+
+button1Name: 연락하기
+button2Name: 프리젠테이션 보기
 button1Target: contact
-button2Target: contact
-#image: images/about/about-img.jpg
-image: images/about/myphotoOK.jpg
+button2Target: https://acts0z.github.io/docs/
+image: images/about/about-img.jpg

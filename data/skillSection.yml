@@ -1,10 +1,6 @@
 ---
 enable: true
-topTitle: 내가 공유할 수 있는 것들
-content: >
-  ## Why hire me for your next project?
-
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+topTitle: 내가 공유할 수 있는 것들은?
 
 image: images/skill/skill_image.jpg
 
